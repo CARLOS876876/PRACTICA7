@@ -1,0 +1,24 @@
+body{
+background-color: #2e6ee6;
+font-family: "Open sans", "Helvatica neue", helvatica, arial, sans-serif;
+font-size: 22px;}
+
+div{color: #14baec;
+height: 100%;
+height: 100%;
+padding: 20px 10px 20px 40px;
+margin: 10px;
+border: 1px solid #999999;
+background-color: #bacbf0;
+border-radius: 15px;
+border: solid 2px #14baec;
+border-radius: 15px 0px 15px 0px;
+box-shadow: 2px 2px 5px #c0c2c3;}
+
+table{
+border: solid 1px black;
+color: black;}
+
+th, td{
+padding: 20px;
+border: solid 1px black;}
